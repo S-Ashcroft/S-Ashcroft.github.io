@@ -3,6 +3,9 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
+# blog page link
+paginate_path: "/blog/page:num/"
+
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://S-Ashcroft.github.io"
 baseurl: ""
