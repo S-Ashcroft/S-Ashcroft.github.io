@@ -26,9 +26,11 @@ description: "How to Write a Lab Report: The Secret Recipe for Success"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Blog: "blog"
   Buy the Book: "https://www.amazon.co.uk"
+  About Us: "aboutme"
+  Blog: "blog"
+  Reviews: "https://www.google.co.uk"
+  
   
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
