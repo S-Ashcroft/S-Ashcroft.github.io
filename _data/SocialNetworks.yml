@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+amazon:
+  name: "Amazon"
+  baseURL: "https://www.amazon.co.uk/"
+  icon: "fa-amazon"
+
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
