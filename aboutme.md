@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: Why should you listen to us?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Sam Ashcroft**
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Sam holds an Undergraduate degree in Psychology with International Study (BSc with Honours). He is completing a PhD using computer-based research. Sam has taught research methods and statistics at University for three years, and he has also been a research assistant and research intern on a bunch of university-level projects. Sam is enthusiastic about data science and coding; he is the President of the University Data Science Society and co-organises the local branch of a national coding organisation called CodeUp. For more information about Sam, visit [LinkedIn](www.linkedin.com/in/samashcroft/)
 
-What else do you need?
+**Bradley Kennedy**
 
-### my history
+Brad holds an Undergraduate degree in Psychology with Neuropsychology (BSc with Honours). Additionally, he has a master’s degree in Neuroimaging (MSc Distinction) which achieved the highest grade in his year. Brad is now working on a PhD, studying the social and cognitive aspects of intentionality. Brad has taught at higher education level since 2015 and in his spare time volunteers as a flying instructor at a gliding school. For more information and lists of published material, visit [bradleykennedy.co.uk](www.bradleykennedy.co.uk)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**We are both:**
+Teachers of research methods and statistics at a UK University
+Markers of University assessments (several hundred per year)
+PhD students 
+Holders of Psychology degrees from various institutions
+
+
+Check out our blog posts [here](blog)
