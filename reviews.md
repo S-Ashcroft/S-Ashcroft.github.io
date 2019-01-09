@@ -10,4 +10,6 @@ subtitle: What people are saying about the book
 >
 > :star: :star: :star: :star: :star:
 
+:star: :star: :star: :star: :star:
+
 Date
