@@ -31,4 +31,5 @@ We are both:
 Check out our blog posts [here](https://labreport.org/blog)
 
 Buy our eBook on how to write lab reports on [Amazon](https://www.amazon.co.uk)
+
 ***
