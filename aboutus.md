@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-Subtitle: The team behind the eBook, website, social media and the blog
+Subtitle: "The team behind the eBook, website, social media and the blog"
 ---
 
 <img src="/img/Sam-face.jpeg" alt="Sam Ashcroft" width="200" align="left" hspace="20" title="Sam Ashcroft"> 
