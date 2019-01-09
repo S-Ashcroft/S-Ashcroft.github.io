@@ -20,11 +20,11 @@ Brad holds an Undergraduate degree in Psychology with Neuropsychology (BSc with 
 
 ***
 
-**We are both:**
-Teachers of research methods and statistics at a UK University
-Markers of University assessments (several hundred per year)
-PhD students 
-Holders of Psychology degrees from various institutions
+We are both:
+- Teachers of research methods and statistics at a UK University
+- Markers of University assessments (several hundred per year)
+- PhD students 
+- Holders of Psychology degrees from various institutions
 
 Check out our blog posts [here](https://labreport.org/blog)
 
