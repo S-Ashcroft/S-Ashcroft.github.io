@@ -19,4 +19,4 @@ PhD students
 Holders of Psychology degrees from various institutions
 
 
-Check out our blog posts [here](blog)
+Check out our blog posts [here](https://labreport.org/blog)
