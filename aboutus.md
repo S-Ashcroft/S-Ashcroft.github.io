@@ -3,7 +3,7 @@ layout: page
 title: About Us
 ---
 
-<img src="/img/Sam-face.jpeg" alt="Sam Ashcroft" width="150" align="left" hspace="20" title="Sam Ashcroft"> 
+<img src="/img/Sam-face.jpeg" alt="Sam Ashcroft" width="200" align="left" hspace="20" title="Sam Ashcroft"> 
 
 **Sam Ashcroft**
 _BSc(Hons) AFHEA_
@@ -12,7 +12,7 @@ Sam holds an Undergraduate degree in Psychology with International Study (BSc wi
 
 ***
 
-<img src="/img/Brad-face.jpeg" alt="Brad Kennedy" width="150" align="left" hspace="20" title="Brad Kennedy"> 
+<img src="/img/Brad-face.jpeg" alt="Brad Kennedy" width="200" align="left" hspace="20" title="Brad Kennedy"> 
 
 **Bradley Kennedy**
 _BSc(Hons) MSc(Dist) MBPsS_
