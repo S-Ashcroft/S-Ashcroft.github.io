@@ -9,7 +9,7 @@ subtitle: The team behind the eBook, the website, social media and the blog
 **Sam Ashcroft**
 _BSc(Hons) AFHEA_
 
-Contact: [Sam@LabReport.Org](mailto:sam@labreport.org)
+To get in touch, email me at: [Sam@labreport.org](mailto:sam@labreport.org)
 
 Sam holds an Undergraduate degree in Psychology with International Study (BSc with Honours). He is completing a PhD using computer-based research. Sam has taught research methods and statistics at University for three years, and he has also been a research assistant and research intern on a bunch of university-level projects. 
 
@@ -22,7 +22,7 @@ Sam is enthusiastic about data science and coding; he is the President of the Un
 **Bradley Kennedy**
 _BSc(Hons) MSc(Dist) MBPsS_
 
-Contact: [Brad@LabReport.Org](mailto:brad@labreport.org)
+To get in touch, email me at: [Brad@labreport.org](mailto:brad@labreport.org)
 
 Brad holds an Undergraduate degree in Psychology with Neuropsychology (BSc with Honours). Additionally, he has a master’s degree in Neuroimaging (MSc Distinction) which achieved the highest grade in his year. Brad is a graduate member of the British Psychological Society and is also a member of the Experimental Psychology Research group within the School of Psychology, University of Chester.
 
