@@ -13,7 +13,7 @@ To get in touch, email me at: [Sam@labreport.org](mailto:sam@labreport.org)
 
 Sam holds an Undergraduate degree in Psychology with International Study (BSc with Honours). He is completing a PhD using computer-based research. Sam has taught research methods and statistics at University for three years, and he has also been a research assistant and research intern on a bunch of university-level projects. 
 
-Sam is enthusiastic about data science and coding; he is the President of the University Data Science Society and co-organises the local branch of a national coding organisation called CodeUp. For more information about Sam, visit [LinkedIn](https://www.linkedin.com/in/samashcroft/)
+Sam is enthusiastic about data science and coding; he is the President of the University Data Science Society and co-organises the local branch of a national coding organisation called CodeUp. For more information about Sam, visit my [LinkedIn Page](https://www.linkedin.com/in/samashcroft/)
 
 ***
 
@@ -28,7 +28,7 @@ Brad holds an Undergraduate degree in Psychology with Neuropsychology (BSc with 
 
 Previously, Brad has investigated the asymmetry of language dominance and its relationship with handedness. He has also investigated how language dominance is represented structurally in the brain using MRI diffusion imaging techniques to examine and visualise the white matter pathways. Brad is currently working on a PhD in social & cognitive psychology and specifically is interested in the mechanisms of social intentionality. 
 
-Brad has taught at higher education level since 2015 and in his spare time volunteers as a flying instructor at a gliding school. For more information and lists of published material, visit [bradleykennedy.co.uk](https://www.bradleykennedy.co.uk)
+Brad has taught at higher education level since 2015 and in his spare time volunteers as a flying instructor at a gliding school. For more information and lists of published material, visit my website [bradleykennedy.co.uk](https://www.bradleykennedy.co.uk)
 
 ***
 
