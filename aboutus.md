@@ -22,7 +22,7 @@ _BSc(Hons) MSc(Dist) MBPsS_
 
 Brad holds an Undergraduate degree in Psychology with Neuropsychology (BSc with Honours). Additionally, he has a master’s degree in Neuroimaging (MSc Distinction) which achieved the highest grade in his year. Brad is a graduate member of the British Psychological Society and is also a member of the Experimental Psychology Research group within the School of Psychology, University of Chester.
 
-Previously, Brad has investigated the asymmetry of language dominance and its relationship with handedness. He has also investigated how language dominance is represented structurally in the brain using MRI diffusion imaging techniques to examine and visualise the white matter pathways. Brad is currently working on a PhD that is investigating social cognitive psychology and specifically is interested in the mechanisms of social intentionality. 
+Previously, Brad has investigated the asymmetry of language dominance and its relationship with handedness. He has also investigated how language dominance is represented structurally in the brain using MRI diffusion imaging techniques to examine and visualise the white matter pathways. Brad is currently working on a PhD in social & cognitive psychology and specifically is interested in the mechanisms of social intentionality. 
 
 Brad has taught at higher education level since 2015 and in his spare time volunteers as a flying instructor at a gliding school. For more information and lists of published material, visit [bradleykennedy.co.uk](https://www.bradleykennedy.co.uk)
 
