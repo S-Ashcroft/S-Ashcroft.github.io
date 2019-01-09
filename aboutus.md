@@ -16,7 +16,7 @@ Sam holds an Undergraduate degree in Psychology with International Study (BSc wi
 
 **Bradley Kennedy**
 
-<div class="align-justify"> Brad holds an Undergraduate degree in Psychology with Neuropsychology (BSc with Honours). Additionally, he has a master’s degree in Neuroimaging (MSc Distinction) which achieved the highest grade in his year. Brad is now working on a PhD, studying the social and cognitive aspects of intentionality. Brad has taught at higher education level since 2015 and in his spare time volunteers as a flying instructor at a gliding school. For more information and lists of published material, visit [bradleykennedy.co.uk](https://www.bradleykennedy.co.uk) </div>
+Brad holds an Undergraduate degree in Psychology with Neuropsychology (BSc with Honours). Additionally, he has a master’s degree in Neuroimaging (MSc Distinction) which achieved the highest grade in his year. Brad is now working on a PhD, studying the social and cognitive aspects of intentionality. Brad has taught at higher education level since 2015 and in his spare time volunteers as a flying instructor at a gliding school. For more information and lists of published material, visit [bradleykennedy.co.uk](https://www.bradleykennedy.co.uk)
 
 ***
 
