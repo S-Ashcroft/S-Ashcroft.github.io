@@ -4,7 +4,7 @@ title: About Us
 subtitle: Why should you listen to us?
 ---
 
-<img src="/img/Sam-face.jpeg" width="150" align="left"> 
+<img src="/img/Sam-face.jpeg" alt="Sam Ashcroft" width="150" align="left" hspace="20"> 
 
 **Sam Ashcroft**
 
@@ -12,7 +12,7 @@ Sam holds an Undergraduate degree in Psychology with International Study (BSc wi
 
 ***
 
-<img src="/img/Brad-face.jpeg" width="150" align="left"> 
+<img src="/img/Brad-face.jpeg" alt="Brad Kennedy" width="150" align="left" hspace="20"> 
 
 **Bradley Kennedy**
 
