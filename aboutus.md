@@ -9,9 +9,9 @@ subtitle: The team behind the eBook, the website, social media and the blog
 **Sam Ashcroft**
 _BSc(Hons) AFHEA_
 
-Sam has taught Research Methods and Statistics at University for three years. Sam teaches ten hours of lab-based research methods each week. He is an accredited Associate Fellow of the Higher Education Academy, which recognises excellence in teaching practice.
+Sam has taught Research Methods and Statistics at University for three years. He teaches ten hours of lab-based research methods each week. Sam is an accredited Associate Fellow of the Higher Education Academy, which recognises excellence in teaching practice.
 
-Sam is completing a PhD using computer-based research, involving psychophysiological measures and experiments he coded in Python and PsychoPy. Sam holds an Undergraduate degree in Psychology with International Study (BSc with Honours). He has also been a research assistant and research intern on a large number of university-level projects. 
+Sam is completing a PhD using computer-based research, involving psychophysiological measures and experiments he coded in Python and PsychoPy. He holds an Undergraduate degree in Psychology with International Study (BSc with Honours). He has also been a research assistant and research intern on a large number of university-level projects. 
 
 Sam is enthusiastic about data science and coding; he is the President of the University Data Science Society and co-organises the local branch of a national coding organisation called CodeUp. For more information about Sam, visit my [LinkedIn Page](https://www.linkedin.com/in/samashcroft/)
 
@@ -42,7 +42,8 @@ We are both:
 
 ***
 
-Check out our blog posts [Here](https://labreport.org/blog)
 
-Buy our eBook on how to write lab reports on [Amazon](https://www.amazon.co.uk)
+**Check out our blog posts [Here](https://labreport.org/blog)**
+
+**Buy our eBook on how to write lab reports on [Amazon](https://www.amazon.co.uk)**
 
