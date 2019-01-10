@@ -11,7 +11,9 @@ _BSc(Hons) AFHEA_
 
 To get in touch, email me at: [Sam@labreport.org](mailto:sam@labreport.org)
 
-Sam holds an Undergraduate degree in Psychology with International Study (BSc with Honours). He is completing a PhD using computer-based research. Sam has taught research methods and statistics at University for three years, and he has also been a research assistant and research intern on a bunch of university-level projects. 
+Sam holds an Undergraduate degree in Psychology with International Study (BSc with Honours). He is completing a PhD using computer-based research, involving psychophysiological measures and experiments he coded in Python and PsychoPy. He has also been a research assistant and research intern on a large number of university-level projects.
+
+Sam has taught research methods and statistics at University for three years. Sam runs three research-based lab classes weekly, and supports another two, totalling ten hours of research methods teaching each week. He is an accredited Associate Fellow of the Higher Education Academy, which recognises excellence in teaching practice.
 
 Sam is enthusiastic about data science and coding; he is the President of the University Data Science Society and co-organises the local branch of a national coding organisation called CodeUp. For more information about Sam, visit my [LinkedIn Page](https://www.linkedin.com/in/samashcroft/)
 
