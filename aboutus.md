@@ -45,5 +45,5 @@ We are both:
 
 **Check out our blog posts [Here](https://labreport.org/blog)**
 
-**Buy our eBook on how to write lab reports on [Amazon](https://www.amazon.co.uk)**
+**Buy our eBook 'How to Write Lab Reports: The Secret Recipe for Success' on [Amazon](https://www.amazon.co.uk)**
 
