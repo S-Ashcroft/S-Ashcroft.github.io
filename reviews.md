@@ -13,30 +13,5 @@ subtitle: What people are saying about the book
 
 :star: :star: :star: :star: :star:
 
-Date: 
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-### Notification Box
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
 
 **For more reviews and to purchase the book, visit [Amazon](https://www.amazon.co.uk)**
-
-END
