@@ -11,7 +11,7 @@ subtitle: What people are saying about the book
 *This is a review from NAME*
 >"I personally love it, best one around!"
 
-:star: :star: :star: :star: :star:
+:star::star::star::star::star:
 
 
 **For more reviews and to purchase the book, visit [Amazon](https://www.amazon.co.uk)**
