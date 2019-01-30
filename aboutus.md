@@ -13,7 +13,7 @@ Sam has taught Research Methods and Statistics at University for three years. He
 
 Sam is completing a PhD using computer-based research, involving psychophysiological measures and experiments he coded in Python and PsychoPy. He holds an Undergraduate degree in Psychology with International Study (BSc with Honours). He has also been a research assistant and research intern on a large number of university-level projects. 
 
-Sam is enthusiastic about data science and coding; he is the President of the University Data Science Society and co-organises the local branch of a national coding organisation called CodeUp. For more information about Sam, visit my [LinkedIn Page](https://www.linkedin.com/in/samashcroft/)
+Sam is enthusiastic about data science and coding; he is the President of the University Data Science Society and co-organises the local branch of a national coding organisation called CodeUp. For more information about Sam, visit his [LinkedIn Page](https://www.linkedin.com/in/samashcroft/)
 
 To get in touch, email me at: [Sam@labreport.org](mailto:sam@labreport.org)
 
