@@ -1,6 +1,6 @@
 {
-    "name": "LabReport.Org",
-    "short_name": "LabReport.Org",
+    "name": "Lab Report",
+    "short_name": "Lab Report",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
