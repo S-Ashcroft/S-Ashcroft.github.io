@@ -31,7 +31,6 @@ navbar-links:
   About Us: "aboutus"
   Blog: "blog"
   Reviews: "reviews"
-  FAQs: "FAQ"
   
 
 #  Resources:
@@ -55,7 +54,7 @@ avatar: "/img/avatar-icon.png"
 # Orange: #EB7D3C; Dark Blue: #315795
 
 navbar-col: "#EB7D3C" #Orange
-navbar-text-col: "#315795" #DARK BLUE
+navbar-text-col: "#FFFFFF" #white
 navbar-children-col: "#999FAD" #GREY 
 page-col: "#FFFFFF"
 link-col: "#008AFF"
