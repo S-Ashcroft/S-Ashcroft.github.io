@@ -1,12 +1,9 @@
 ---
-layout page
-title: FAQ
+layout: page
+title: FAQs
 ---
 
-To add:
-Have a Button
-Content
-
+**[Submit a New Question for FAQs](https://labreport.org/new-FAQ/)**
 
 •	Word limit and what’s included
 •	Materials/apparatus/procedure section? Merge?
