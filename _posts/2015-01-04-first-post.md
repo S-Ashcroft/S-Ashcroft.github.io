@@ -6,6 +6,9 @@ image: /img/hello_world.jpeg
 
 This is my first post, how exciting!
 
+
+---
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
