@@ -3,7 +3,7 @@ layout: page
 title: FAQs
 ---
 
-**[Submit a New Question for FAQs](https://labreport.org/new-FAQ/)**
+<h2 style="text-align: center;"><a title="Click to submit a new FAQ" href="https://labreport.org/new-FAQ/">Submit a New Question for FAQs</a></h2>
 
 •	Word limit and what’s included
 •	Materials/apparatus/procedure section? Merge?
