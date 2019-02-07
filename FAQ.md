@@ -3,7 +3,7 @@ layout: page
 title: FAQs
 ---
 
-<a title="Click to submit new FAQ" href="https://labreport.org/new-FAQ/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://s-ashcroft.github.io/img/NewFAQbutton.png" alt="" width="306" height="142" /></a>
+<a title="Click to submit new FAQ" href="https://labreport.org/new-FAQ/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://s-ashcroft.github.io/img/NewFAQbutton.png" alt="" width="175" height="81" /></a>
 
 •	Word limit and what’s included
 •	Materials/apparatus/procedure section? Merge?
