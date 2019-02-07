@@ -71,6 +71,9 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 
+
+---
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
