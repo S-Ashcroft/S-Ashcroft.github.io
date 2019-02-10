@@ -3,7 +3,12 @@ layout: post
 published: true
 title: Top Three Errors in Lab Report Introduction Sections
 date: '2019-02-10'
-tags: [Lab Report, Writing, Common mistakes, Introduction]
+tags:
+  - Lab Report
+  - Writing
+  - Common mistakes
+  - Introduction
+image: img/Macbook writing image .jpg
 ---
 _Reading time: 3 minutes_
  
@@ -140,7 +145,7 @@ Please use the buttons below to share this article and make it seem like you’r
 Sam and Brad  
 If you have any questions, [let us know](mailto:info@labreport.org)
  
-**Sign up below to be the first to hear about new blog posts!**
+**Why not Sign up to our mail list below - we can let you know about new posts!**
 
 ---
 
