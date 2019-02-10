@@ -13,15 +13,7 @@ image: /img/Macbook writing image .jpg
 _Reading time: 3 minutes_
  
 We discuss the three main errors that students make in the Introduction Section of a Lab Report, and how to successfully avoid making those errors.
- 
-Links:
-Error 1: No rationale
-Solution 1
-Ideas for Rationales
-Error 2: No definitions
-Solution 2
-Error 3: Incorrectly discussing the literature
-Solution 3
+
  
 ## **Error 1/3**
 ### *The Error:* No Rationale
