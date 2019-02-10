@@ -10,12 +10,12 @@ title: FAQs
 - **[Word limit and what’s included](#wordlimit)**  
 - **[What goes in the Materials/apparatus/procedure section?](#materials)**  
 - **[What is marker looking for?](#marker)**  
-- **[Main ways students lose grades?](#losegrades)**  
+- **[What are the main ways students lose grades?](#losegrades)**  
 - **[What in lab reports always makes you laugh?](#laugh)**  
 - **[What small things in lab reports can annoy a marker?](#annoy)**  
 - **[Have you always been good at lab reports?](#goodlabreports)**  
 - **[Do people really get good grades?](#goodgrades)**  
-- **[How to deal with the stress of university?](#stress)**  
+- **[How can you deal with the stress of university?](#stress)**  
 <br>
 
 ---
@@ -29,7 +29,7 @@ The things you used
 # What is marker looking for? {#marker} 
 Follow the marking criteria and you'll know!
 
-# Main ways students lose grades? {#losegrades} 
+# What are the main ways students lose grades? {#losegrades} 
 Submit late, don't submit at all, spelling mistakes, not following the brief
 
 # What in lab reports always makes you laugh? {#laugh} 
@@ -44,5 +44,6 @@ No, we have had to learn. That’s why we wrote this book
 # Do people really get good grades? {#goodgrades} 
 Yes! 98, 96  
 
-# How to deal with the stress of university? {#stress} 
+# How can you deal with the stress of university? {#stress} 
 You can't
+
