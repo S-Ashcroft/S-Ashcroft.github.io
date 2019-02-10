@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Top Three Errors in Lab Report Introduction Sections
 date: '2019-02-10'
+tags: [Lab Report],[Writing],[Common mistakes],[Introduction]
 ---
 _Reading time: 3 minutes_
  
