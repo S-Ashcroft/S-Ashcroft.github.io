@@ -1,7 +1,8 @@
 ---
 layout: post
+published: false
 title: Top Three Errors in Lab Report Introduction Sections
-tags: [Lab Report] [Writing] [Introduction] [Common mistakes]
+date: '2019-02-10'
 ---
 _Reading time: 3 minutes_
  
@@ -16,8 +17,8 @@ Solution 2
 Error 3: Incorrectly discussing the literature
 Solution 3
  
-**Error 1/3**  
-*The Error:* No Rationale
+## **Error 1/3**
+### *The Error:* No Rationale
  
 The main point of the Introduction section is to cover the literature, talk about a gap in the literature and show that your study fills that gap. This is all about building a rationale for your study. As in: “What’s the point of it? Why do it?”
  
@@ -25,7 +26,7 @@ Very often in an Introduction section, students will cover the literature, cover
  
 The introduction is a very good place to demonstrate that you know all the literature, that you’ve done further reading, that you really know what you’re talking about. But that’s not all – you must build a rationale.
  
-*The Solution:* Explicitly State the Rationale
+### *The Solution:* Explicitly State the Rationale
  
 The golden solution is to have a paragraph that starts: “The rationale for this study is…”
  
@@ -39,8 +40,8 @@ Ideas for rationales:
 * The methods available are more accurate, so we have a better way to test the theory  
 * The findings are out of date and need replicating
  
-**Error 2/3**  
-*The Error:* No Definitions
+## **Error 2/3**
+### *The Error:* No Definitions
  
 In your Lab Report you’re going to talk about some pretty fancy and technical stuff. You’re a genius, you know the literature (or at least you want to make it seem that way), and you’re going to get into the nitty gritty.
  
@@ -52,7 +53,7 @@ I like to say that you’re “playing tennis on two different courts”.
  
 At best, you’ve simply forgotten to have some definitions and you’ll lose marks for that only. At worst, your reader will have no idea what you’re talking about and the Lab Report will make no sense to them. Let’s not risk it – there’s an easy solution.
  
-*The Solution:* Define Terms Early
+### *The Solution:* Define Terms Early
  
 You’ve seen definitions before, but as a reminder they go something like this:
  
@@ -76,8 +77,8 @@ People really like chocolate (a popular sweet item of confectionary usually made
  
 Don’t play tennis on two different courts. Bring the reader onto your court.
  
-**Error 3/3**  
-*The Error:* Incorrectly Discussing the Literature
+## **Error 3/3**
+### *The Error:* Incorrectly Discussing the Literature
  
 I admit that this error sounds a bit broad, and it is. There’s so many ways to discuss the literature incorrectly in the Introduction section of a Lab Report.
  
@@ -128,6 +129,7 @@ Secondly, be detailed.
 Say what the researchers did. Say what the researchers found. This could be summarised in just a few words if needed. It needn’t be a paragraph. At the very least, state the conclusion that the researchers came to.
 
 --- 
+
 So there we have it. Three main errors people have in their Introduction Sections, and how to be a genius and avoid ever making those mistakes.
  
 Well done for finishing reading this blog article. You care about getting this right, and your learning trajectory is looking super positive. Go you.
