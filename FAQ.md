@@ -5,16 +5,20 @@ title: FAQs
 
 <h2 style="text-align: center;"><a title="Click to submit a new FAQ" href="https://labreport.org/new-FAQ/">Submit a New Question for FAQs</a></h2>
 
-**[Word limit and what’s included](#Word limit and what’s included)**  
-**[What goes in the Materials/apparatus/procedure section?](#What goes in the Materials/apparatus/procedure section?)**  
-**[What is marker looking for?](#What is marker looking for?)**  
-**[Main ways students lose grades?](#Main ways students lose grades?)**  
-**[What in lab reports always makes you laugh?](#What in lab reports always makes you laugh?)**  
-**[What small things in lab reports can annoy a marker?](#What small things in lab reports can annoy a marker?)**  
-**[Have you always been good at lab reports?](#Have you always been good at lab reports?)**  
-**[Do people really get good grades?](#Do people really get good grades?)**  
-**[How to deal with the stress of university?](#How to deal with the stress of university?)**  
+---
+
+- **[Word limit and what’s included](#Word-limit-and-what’s-included)**  
+- **[What goes in the Materials/apparatus/procedure section?](#What goes in the Materials/apparatus/procedure section?)**  
+- **[What is marker looking for?](#What is marker looking for?)**  
+- **[Main ways students lose grades?](#Main ways students lose grades?)**  
+- **[What in lab reports always makes you laugh?](#What in lab reports always makes you laugh?)**  
+- **[What small things in lab reports can annoy a marker?](#What small things in lab reports can annoy a marker?)**  
+- **[Have you always been good at lab reports?](#Have you always been good at lab reports?)**  
+- **[Do people really get good grades?](#Do people really get good grades?)**  
+- **[How to deal with the stress of university?](#How to deal with the stress of university?)**  
 <br>
+
+---
 
 # Word limit and what’s included  
 Inc
