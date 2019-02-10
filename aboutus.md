@@ -36,7 +36,7 @@ For more information, visit [my website](https://www.bradleykennedy.co.uk)
 
 To get in touch, email me at: [Brad@labreport.org](mailto:brad@labreport.org)
 
-***
+---
 
 We are both:
 - Teachers of Research Methods and Statistics at a UK University
@@ -45,10 +45,8 @@ We are both:
 - Holders of Psychology degrees from various institutions
 - Active researchers
 
-***
+---
 
-
-**Check out our blog posts [Here](https://labreport.org/blog)**
+**Check out our [blog posts](https://labreport.org/blog)**
 
 **Buy our eBook 'How to Write Lab Reports: The Secret Recipe for Success' on [Amazon](https://www.amazon.co.uk)**
-
