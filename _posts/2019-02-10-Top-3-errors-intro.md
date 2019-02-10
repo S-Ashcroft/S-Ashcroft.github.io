@@ -8,7 +8,7 @@ tags:
   - Writing
   - Common mistakes
   - Introduction
-image: img/Macbook writing image .jpg
+image: 'https://s-ashcroft.github.io/img/Macbook writing image .jpg'
 ---
 _Reading time: 3 minutes_
  
