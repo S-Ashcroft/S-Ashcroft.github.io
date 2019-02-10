@@ -7,7 +7,7 @@ title: FAQs
 
 ---
 
-- **[Word limit and what’s included](#Word-limit-and-what’s-included)**  
+- **[Word limit and what’s included](#wordlimit)**  
 - **[What goes in the Materials/apparatus/procedure section?](#What goes in the Materials/apparatus/procedure section?)**  
 - **[What is marker looking for?](#What is marker looking for?)**  
 - **[Main ways students lose grades?](#Main ways students lose grades?)**  
@@ -20,7 +20,7 @@ title: FAQs
 
 ---
 
-# Word limit and what’s included  
+# Word limit and what’s included {#wordlimit} 
 Inc
 
 # What goes in the Materials/apparatus/procedure section?  
