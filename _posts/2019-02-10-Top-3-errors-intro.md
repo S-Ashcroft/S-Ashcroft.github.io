@@ -54,7 +54,7 @@ At best, you’ve simply forgotten to have some definitions and you’ll lose ma
  
 You’ve seen definitions before, but as a reminder they go something like this:
  
-"Happiness is defined as the positive emotion felt when someone smiles at you (Ashcroft, 2019)."
+> "Happiness is defined as the positive emotion felt when someone smiles at you (Ashcroft, 2019)."
  
 The above is a paraphrase of a fictional article by me. You could also have a direct quote:
  
