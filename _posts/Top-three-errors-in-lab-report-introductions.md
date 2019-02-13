@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Top Three Errors in Lab Report Introduction Sections
-date: '2019-02-15'
+date: ''
 tags:
   - Lab Report
   - Writing
