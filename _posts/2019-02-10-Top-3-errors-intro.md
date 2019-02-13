@@ -49,8 +49,6 @@ You might be thinking of one thing when you say “happiness”, but your reader
 I like to say that you’re 'playing tennis on two different courts'.
  
 At best, you’ve simply forgotten to have some definitions and you’ll lose marks for that only. At worst, your reader will have no idea what you’re talking about and the Lab Report will make no sense to them. Let’s not risk it – there’s an easy solution.
-
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://s-ashcroft.github.io/img/Sam-face.jpeg" alt="Sam Face" width="200" height="200" />
  
 ### *The Solution:* Define Terms Early
  
