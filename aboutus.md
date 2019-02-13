@@ -17,7 +17,7 @@ Sam is enthusiastic about data science and coding; he is the President of the Un
 
 For more information about Sam, visit my [LinkedIn Page](https://www.linkedin.com/in/samashcroft/)
 
-To get in touch, email me at: [Sam@labreport.org](mailto:sam@labreport.org)
+To get in touch, email him at: [Sam@labreport.org](mailto:sam@labreport.org)
 
 ***
 
@@ -30,11 +30,11 @@ Brad has taught at higher education level since 2015 and has been marking on Res
 
 Previously, Brad has investigated the asymmetry of language dominance and its relationship with handedness. He has also explored how language dominance is represented structurally in the brain using MRI diffusion imaging techniques to examine and visualise the white matter pathways. Brad is currently working on a PhD in social and cognitive Psychology and specifically is interested in the mechanisms of social intentionality.
 
-Brad is a committee member of the University Data Science Society and in his spare time, he volunteers as a flying instructor at a gliding school. 
+Brad is a committee member of the University Data Science Society and in his spare time he volunteers as a flying instructor at a gliding school. 
 
-For more information, visit [my website](https://bradleykennedy.co.uk)
+For more information, visit [his website](https://bradleykennedy.co.uk)
 
-To get in touch, email me at: [Brad@labreport.org](mailto:brad@labreport.org)
+To get in touch, email his at: [Brad@labreport.org](mailto:brad@labreport.org)
 
 ---
 
