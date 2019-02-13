@@ -15,7 +15,7 @@ He is completing a PhD using computer-based research, involving psychophysiologi
 
 Sam is enthusiastic about data science and coding; he is the President of the University Data Science Society and co-organises the local branch of a national coding organisation called CodeUp. Sam is also a member of both the Data Science Foundation (DSF) and Data Science Association (DSA).
 
-For more information about Sam, visit my [LinkedIn Page](https://www.linkedin.com/in/samashcroft/)
+For more information about Sam, visit his [LinkedIn Page](https://www.linkedin.com/in/samashcroft/)
 
 To get in touch, email him at: [Sam@labreport.org](mailto:sam@labreport.org)
 
