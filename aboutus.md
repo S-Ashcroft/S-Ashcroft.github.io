@@ -32,7 +32,7 @@ Previously, Brad has investigated the asymmetry of language dominance and its re
 
 Brad is a committee member of the University Data Science Society and in his spare time, he volunteers as a flying instructor at a gliding school. 
 
-For more information, visit [my website](https://www.bradleykennedy.co.uk)
+For more information, visit [my website](https://bradleykennedy.co.uk)
 
 To get in touch, email me at: [Brad@labreport.org](mailto:brad@labreport.org)
 
