@@ -19,7 +19,7 @@ title: FAQs
 ---
 
 # What is this website about? {#websiteabout} 
-This is the supplementary website to the eBook "How to Write a Lab Report" which will be launching on Amazon on the 14th March 2019.
+This is the supplementary website to the eBook "How to Write a Lab Report" which will be launching on Amazon on the 14th April 2019.
 
 We want to give you all the information you need about Lab Reports, so that you can become a Lab Report expert.
 
