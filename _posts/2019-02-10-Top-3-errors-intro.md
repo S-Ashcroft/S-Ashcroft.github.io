@@ -51,7 +51,7 @@ I like to say that you’re 'playing tennis on two different courts'.
  
 At best, you’ve simply forgotten to have some definitions and you’ll lose marks for that only. At worst, your reader will have no idea what you’re talking about and the Lab Report will make no sense to them. Let’s not risk it – there’s an easy solution.
  
- ![Sam-face.jpeg]({{site.baseurl}}/img/Sam-face.jpeg)
+ ![Sam-face.jpeg]({{site.baseurl}}/img/Sam-face.jpeg =200x200)
  
 ### *The Solution:* Define Terms Early
  
