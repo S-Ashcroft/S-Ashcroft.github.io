@@ -49,4 +49,4 @@ We are both:
 
 **Check out our [blog posts](https://labreport.org/blog)**
 
-**Buy our eBook 'How to Write Lab Reports: The Secret Recipe for Success' on [Amazon](https://www.amazon.co.uk)**
+<!---**Buy our eBook 'How to Write Lab Reports: The Secret Recipe for Success' on [Amazon](https://www.amazon.co.uk)**--->
