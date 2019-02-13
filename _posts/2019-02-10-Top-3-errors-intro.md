@@ -6,8 +6,9 @@ date: '2019-02-15'
 tags:
   - Lab Report
   - Writing
-  - Common mistakes
+  - Common Mistakes
   - Introduction
+  - Common Errors Series
 image: /img/Macbook writing image .jpg
 ---
 _Reading time: 3 minutes_  
