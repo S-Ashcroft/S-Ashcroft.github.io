@@ -63,6 +63,6 @@ There are hundreds of rules to know when writing Lab Reports, and it takes a lon
 
 That's where we come in. We've been there! We've done degrees, Masters, we're doing PhDs and we _literally_ teach degree/college students how to write Lab Reports _week-in week-out_.
 
-We've brought together all those rules that took us years to learn, and have compiled them into one comprehensive, useful resource.
+We've brought together all those rules that took us years to learn, and have compiled them into one comprehensive, useful resource. For you.
 
 You can sign up to be the first to hear about the book launch [here]() ADD LINK, and you can get extra tips and tricks from our [Twitter](https://twitter.com/_LabReport) and [Facebook](https://facebook.com/LabReport.Org) accounts.
