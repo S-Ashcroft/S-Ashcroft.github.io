@@ -11,9 +11,7 @@ tags:
   - Common Errors Series
 image: /img/Macbook writing image .jpg
 ---
-_Reading time: 3 minutes_  
-
-We discuss the three main errors that students make in the Introduction Section of a Lab Report, and how to successfully avoid making those errors.
+_Reading time: 3 minutes_ - We discuss the three main errors that students make in the Introduction Section of a Lab Report, and how to successfully avoid making those errors.
 
  
 ## **Error 1/3**
