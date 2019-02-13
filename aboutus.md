@@ -34,11 +34,11 @@ Brad is a committee member of the University Data Science Society and in his spa
 
 For more information, visit [his website](https://bradleykennedy.co.uk)
 
-To get in touch, email his at: [Brad@labreport.org](mailto:brad@labreport.org)
+To get in touch, email him at: [Brad@labreport.org](mailto:brad@labreport.org)
 
 ---
 
-We are both:
+Sam and Brad are both:
 - Teachers of Research Methods and Statistics at a UK University
 - Markers of University assessments (several hundred per year)
 - PhD students 
