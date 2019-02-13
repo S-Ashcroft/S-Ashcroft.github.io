@@ -39,10 +39,10 @@ The book will be available on Amazon from the 14th April 2019.
 
 We have decided to publish on Amazon because this keeps costs low for you (avoiding publisher fees which would drive the price up), and also because it is a reputable marketing service. This means that you can trust the reviews and trust the seller.
 
-To be reminded about the book launch, please sign up [here]() <--- ADD LINK!
+To be reminded about the book launch, please sign up [here](https://labreport.org/launch-day-subscribe/)  
 
 # Can I sign up to be told about the Book Launch? {#launchsignup}
-Of course you can, right [here]() <--- ADD LINK!
+Of course you can, right [here](https://labreport.org/launch-day-subscribe/)  
 
 # What content does the book contain? {#bookcontent}
 We have written a comprehensive, step-by-step guide to writing Lab Reports.
@@ -65,4 +65,5 @@ That's where we come in. We've been there! We've done degrees, Masters, we're do
 
 We've brought together all those rules that took us years to learn, and have compiled them into one comprehensive, useful resource. For you.
 
-You can sign up to be the first to hear about the book launch [here]() ADD LINK, and you can get extra tips and tricks from our [Twitter](https://twitter.com/_LabReport) and [Facebook](https://facebook.com/LabReport.Org) accounts.
+You can sign up to be the first to hear about the book launch [here](https://labreport.org/launch-day-subscribe/), and you can get extra tips and tricks from our [Twitter](https://twitter.com/_LabReport) and [Facebook](https://facebook.com/LabReport.Org) accounts.
+
