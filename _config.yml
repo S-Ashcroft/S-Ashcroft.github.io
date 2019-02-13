@@ -26,11 +26,11 @@ description: "How to Write a Lab Report: The Secret Recipe for Success"
 
 # List of links in the navigation bar
 navbar-links:
-  Buy the Book: "https://www.amazon.co.uk"
+#  Buy the Book: "https://www.amazon.co.uk"
   Home: ""
   About Us: "aboutus"
   Blog: "blog"
-  Reviews: "reviews"
+#  Reviews: "reviews"
   FAQs: "FAQ"
 
 #  Resources:
