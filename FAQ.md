@@ -10,6 +10,7 @@ title: FAQs
 - **[What is this website about?](#websiteabout)** 
 - **[Who wrote the book, runs the website, and posts on social media?](#whoweare)** 
 - **[When is the book available?](#launchdate)** 
+- **[Can I sign up to be told about the Book Launch?](#launchsignup)** 
 <br>
 
 ---
@@ -36,3 +37,6 @@ The book will be available on Amazon from the 14th April 2019.
 We have decided to publish on Amazon because this keeps costs low for you (avoiding publisher fees which would drive the price up), and also because it is a reputable marketing service. This means that you can trust the reviews and trust the seller.
 
 To be reminded about the book launch, please sign up [here]() <--- ADD LINK!
+
+# Can I sign up to be told about the Book Launch? {#launchsignup}
+Of course you can, right [here]() <--- ADD LINK!
