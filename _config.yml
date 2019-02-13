@@ -171,7 +171,8 @@ title-separator: "|"
 timezone: "Eurpoe/London"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+# permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 5
 
 kramdown:
