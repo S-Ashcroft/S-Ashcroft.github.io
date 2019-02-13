@@ -46,7 +46,7 @@ You need to bear in mind though that people don’t know the literature as well 
  
 You might be thinking of one thing when you say “happiness”, but your reader may have something entirely different in mind.
  
-I like to say that you’re “playing tennis on two different courts”.
+I like to say that you’re 'playing tennis on two different courts'.
  
 At best, you’ve simply forgotten to have some definitions and you’ll lose marks for that only. At worst, your reader will have no idea what you’re talking about and the Lab Report will make no sense to them. Let’s not risk it – there’s an easy solution.
  
@@ -54,11 +54,11 @@ At best, you’ve simply forgotten to have some definitions and you’ll lose ma
  
 You’ve seen definitions before, but as a reminder they go something like this:
  
-Happiness is defined as the positive emotion felt when someone smiles at you (Ashcroft, 2019).
+"Happiness is defined as the positive emotion felt when someone smiles at you (Ashcroft, 2019)."
  
 The above is a paraphrase of a fictional article by me. You could also have a direct quote:
  
-Happiness is defined as “… that emotion that you feel when someone, such as a family member or friend, smiles at you” (Ashcroft, 2019, p.19).
+"Happiness is defined as “… that emotion that you feel when someone, such as a family member or friend, smiles at you” (Ashcroft, 2019, p.19)."
  
 Both are completely fine. Avoid having too many direct quotes. Remember those page numbers. 
  
@@ -70,7 +70,7 @@ This should happen pretty early on in a Lab Report. You should define the main t
  
 For other definitions of secondary importance, define the term the first time the term is used. For example:
  
-People really like chocolate (a popular sweet item of confectionary usually made from milk and cocoa, among other ingredients; Ashcroft, 2019).
+"People really like chocolate (a popular sweet item of confectionary usually made from milk and cocoa, among other ingredients; Ashcroft, 2019)."
  
 Don’t play tennis on two different courts. Bring the reader onto your court.
  
@@ -81,7 +81,7 @@ I admit that this error sounds a bit broad, and it is. There’s so many ways to
  
 Here’s some examples:
  
-There are loads of studies about dinosaurs and chocolate in the literature. Dinosaurs are defined as…
+"There are loads of studies about dinosaurs and chocolate in the literature. Dinosaurs are defined as…"
  
 Why this is incorrect: 
  
@@ -89,11 +89,11 @@ Firstly, they have mentioned studies and have not cited any of them. Bad practic
  
 Instead:
  
-The present report assesses whether or not dinosaurs like chocolate, as has been suggested previously (Ashcroft, 2010). Dinosaurs are defined as…
+"The present report assesses whether or not dinosaurs like chocolate, as has been suggested previously (Ashcroft, 2010). Dinosaurs are defined as…"
  
 Another example of incorrectly discussing the literature:
  
-Brians and McDonald (2016) studied dinosaurs and chocolate. McGyver and Frankenstein (1985) also studied dinosaurs and chocolate. Another study about dinosaurs and chocolate is by…
+"Brians and McDonald (2016) studied dinosaurs and chocolate. McGyver and Frankenstein (1985) also studied dinosaurs and chocolate. Another study about dinosaurs and chocolate is by…"
  
 Why this is incorrect:
  
@@ -103,7 +103,7 @@ At the very minimum you need to say what researchers had as the conclusion of th
  
 Instead:
  
-Brians and McDonald (2016) discovered that dinosaurs are drawn to the scent of cocoa, but their study did not involve actual consumption. McGyver and Frankenstein (1985) used a longitudinal design where dinosaurs were…
+"Brians and McDonald (2016) discovered that dinosaurs are drawn to the scent of cocoa, but their study did not involve actual consumption. McGyver and Frankenstein (1985) used a longitudinal design where dinosaurs were…"
  
 There are so many more examples of how people discuss the literature incorrectly. Here’s the take home message about how to avoid these errors.
  
