@@ -99,8 +99,8 @@ If anything we’ve said has resonated with you, please click one of the buttons
 You’re brilliant. Have a good day,
 
 Sam and Brad  
-- Labreport.org  
-<p style="text-align: left;"><img src="https://s-ashcroft.github.io/img/avatar-icon.png" alt="" width="84" height="80" /></p>
+-Labreport.org  
+<p style="text-align: left;"><img src="https://s-ashcroft.github.io/img/avatar-icon.png" alt="" width="84" height="80" /></p>  
 If you have any questions, [let us know](mailto:info@labreport.org)
 
  
