@@ -100,8 +100,8 @@ We hope you’ve learnt something in this blog post. Remember to sign up for ale
 Keep it going you champion.
 
 Sam and Brad  
-- Labreport.org  
-<p style="text-align: left;"><img src="https://s-ashcroft.github.io/img/avatar-icon.png" alt="" width="84" height="80" /></p>
+-Labreport.org  
+<p style="text-align: left;"><img src="https://s-ashcroft.github.io/img/avatar-icon.png" alt="" width="84" height="80" /></p>  
 If you have any questions, [let us know](mailto:info@labreport.org)
 
  
