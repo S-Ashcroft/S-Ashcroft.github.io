@@ -133,7 +133,7 @@ Well done for finishing reading this blog article. You care about getting this r
 Please use the buttons below to share this article and make it seem like you’re super intelligent (because you are).
  
 Sam and Brad  
-Labreport.org  
+- Labreport.org  
 <p style="text-align: left;"><img src="https://s-ashcroft.github.io/img/avatar-icon.png" alt="" width="84" height="80" /></p>
 If you have any questions, [let us know](mailto:info@labreport.org)
  
