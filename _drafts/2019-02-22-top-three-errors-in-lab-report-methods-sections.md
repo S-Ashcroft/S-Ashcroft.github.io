@@ -19,7 +19,7 @@ We discuss the three main errors that students make in the Methods Section of a 
 ## **Error 1/3**
 ### *The Error:* Materials section sounds like the procedure section
  
-The Methods section (at least in [link] APA) has four sections: Participants, Materials, Procedure, Design & Analysis. These need to read like separate sections, and students often write the Materials and Procedure sections in pretty much the same way with the same content.
+The Methods section (at least in [APA](https://www.apastyle.org/index?_ga=2.257006152.2119842503.1551024700-1321505198.1551024700)) has four sections: Participants, Materials, Procedure, Design & Analysis. These need to read like separate sections, and students often write the Materials and Procedure sections in pretty much the same way with the same content.
 
 A Materials section should simply list the materials/apparatus used in the experiment. How can this sound like Procedure?
 
