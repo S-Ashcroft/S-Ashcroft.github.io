@@ -132,7 +132,8 @@ Well done for finishing reading this blog article. You care about getting this r
  
 Please use the buttons below to share this article and make it seem like you’re super intelligent (because you are).
  
-Sam and Brad  
+Sam and Brad
+![]({{site.baseurl}}/img/avatar-icon.png =80x80) Labreport.org  
 If you have any questions, [let us know](mailto:info@labreport.org)
  
 **Why not Sign up to our mail list below - we can let you know about new posts!**
