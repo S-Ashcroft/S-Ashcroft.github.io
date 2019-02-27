@@ -26,7 +26,7 @@ To get in touch, email him at: [Sam@labreport.org](mailto:sam@labreport.org)
 **Bradley Kennedy**
 _BSc(Hons) MSc(Dist) MBPsS_
 
-Brad has taught at higher education level since 2015 and has been marking on Research Methods modules for a similar period. Brad holds an Undergraduate degree in Psychology with Neuropsychology (BSc with Honours). Additionally, he has a master’s degree in Neuroimaging (MSc Distinction) which achieved the highest grade in his year. Brad is a graduate member of the British Psychological Society and is also a member of the Experimental Psychology Research group within the School of Psychology, University of Chester.
+Brad has taught at higher education level since 2015 and has been marking on Research Methods modules for a similar period. Brad holds an Undergraduate degree in Psychology with Neuropsychology (BSc with Honours). Additionally, he has a master’s degree in Neuroimaging (MSc Distinction) which achieved the highest grade in his year. Brad is a graduate member of the British Psychological Society and is also a member of his University's Experimental Psychology Research group.
 
 Previously, Brad has investigated the asymmetry of language dominance and its relationship with handedness. He has also explored how language dominance is represented structurally in the brain using MRI diffusion imaging techniques to examine and visualise the white matter pathways. Brad is currently working on a PhD in social and cognitive Psychology and specifically is interested in the mechanisms of social intentionality.
 
