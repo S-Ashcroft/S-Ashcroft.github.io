@@ -94,7 +94,7 @@ You might even enjoy it.
 
 --- 
 
-That’s all for now. Well done for bossing your day and reading a useful article on writing Abstract Sections.
+That’s all for now. Well done for bossing it and reading a useful article on writing Abstract Sections.
 
 If you feel like doing your good deed for the day, please click one of the social media buttons below to share this blog post with your social network. 
 
