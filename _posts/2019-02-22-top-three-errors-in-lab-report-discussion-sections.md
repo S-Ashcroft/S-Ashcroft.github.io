@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Top Three Errors in Lab Report Discussion Sections
 tags:
   - Lab Report
@@ -12,7 +12,7 @@ image: /img/discussion image.jpg
 ---
 _Reading time: 3 minutes_ - The Discussion Section of a Lab Report is where you can really separate yourself from the rest of the pack. 
 
-Here we talk about how three main ways to stay in the pack, and how to avoid making these mistakes altogether.
+Here we talk about three main ways people make mistakes and end up staying with the pack, and how to avoid making these mistakes altogether.
 
 
  
@@ -58,7 +58,7 @@ If you can’t see how that opportunity train just stormed on past, let us show 
 
 > “The lack of temperature control in the study was a limitation. Temperature changes of even one degree celcius have been shown to increase sweat output in participants by up to 45% (Ashcroft, 2013).”
 
-As you can see, it’s such a simple point, so it’s such an easy citation to find, and yet it makes the limitation section go from okay to _have a PhD right now you scientific wizard._
+As you can see, it’s such a simple point, so it’s such an easy citation to find, and yet it makes the limitation section go from okay to _have a PhD now you scientific wizard._
 
 Look for opportunities and you will see them in the Discussion Section. Everywhere.
 
@@ -66,13 +66,13 @@ Look for opportunities and you will see them in the Discussion Section. Everywhe
 ## **Error 3/3**
 ### *The Error:* Forgetting to Have a Watertight Narrative (Being a Bit ‘Leaky’)
  
-Your Discussion Section is not an island after the Results Section. It needs to fit together with not just the Results, but the Introduction and Method Sections as well.
+Your Discussion Section is not an island after the Results Section. It needs to fit together with not just the Results, but the Introduction and Methods Sections as well.
 
-People sometimes don’t even mention the information mentioned in the Introduction. If you cited studies saying that cats can’t jump backwards, and you’ve just discovered a cat that can jump backwards, you _absolutely_ need to be citing those previously mentioned studies and start discussing why you got different results.
+People sometimes don’t even mention the information in the Introduction. If you cited studies saying that cats can’t jump backwards, and you’ve just discovered a cat that can jump backwards, you _absolutely_ need to be citing those previously mentioned studies and start discussing why you got different results.
 
 If there’s a citation in the Introduction, there’s a high likelihood that it will be mentioned again in the Discussion Section. This is normal, and quite expected.
 
-The narrative can also go a bit funny when the Methods Section is forgotten. Students can occasionally come up with limitations about an area of research or a general idea, or start evaluating other people’s studies, yet they don’t even evaluate their own study.
+The narrative can also go a bit funny when the Methods Section is forgotten. Students can occasionally come up with limitations about an area of research or a general idea, or start evaluating other people’s studies, yet they don’t evaluate their own study.
 
 The Results can also be forgotten in the Discussion Section, believe it or not. It is sometimes the case that students will be so caught up in evaluating their study that they forget to really interpret what was found in the Results.
 
