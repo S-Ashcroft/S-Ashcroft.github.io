@@ -39,7 +39,7 @@ Secondly, you can also go wrong by really focusing on the participants and what 
 
 This puts all the focus on the participants. The participants are at the start of the sentence. At the very least you want them at the end of the sentence (so that the material used is the focus). 
 
-At the very best, you don’t want to mention your participants at all.
+It is quite possible that you won't mention your participants at all.
 
  
 ## **Error 2/3**
@@ -63,7 +63,8 @@ You also need to ask: “if I don’t mention this information, can another scie
 
 This question really helps you figure out what information is irrelevant. If you didn’t mention the colour of the carpet, another researcher would probably be able to replicate your study and expect to get similar results (unless you’re looking at carpet preference!).
 
-Be as technical as possible but avoid things that aren’t relevant. Here’s an example of the information that would be necessary for a language-based psychology computer experiment.
+Be as technical as possible but avoid things that aren’t relevant. Here’s an example of the information that would be necessary for a language-based psychology computer experiment -
+
 What is on the screen? What’s the colour of things on the screen? How long are things on the screen? How far is the participant from the screen? What buttons does the participant press? What happens when the participant gets it correct? Are the conditions randomised? Are they counterbalanced? What happens between different trials? What instructions are the participants given? 
 
 My advice is to write in everything, and then go through the process of cutting out details that don’t really make a difference to the study or results. Then ask yourself whether you think someone could do a full replication based on the information you’ve given. 
