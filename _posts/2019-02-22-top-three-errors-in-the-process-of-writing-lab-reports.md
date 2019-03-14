@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Top Three Errors in the Process of Writing Lab Reports
 tags:
   - Lab Report
@@ -39,7 +39,7 @@ Resources:
 
 A list of all the formatting rules is absolutely necessary. This could be something online, like ([Purdue Online Writing Lab (OWL)](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html)). Or it could be a reference book, such as the APA Publication Manual. There are rules for every part of a Lab Report. Don’t guess. Have this resource open and use it whilst you format each section. You’ll know you’re doing it right.
 
-A sample paper is so useful. You can see exactly how things can be formatted. You should be playing spot-the-difference between your work and the sample paper. If something looks different, you’re doing something wrong. Want a good APA sample paper? Here you go: [APA Sample Paper](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_sample_paper.html).
+A sample paper is so useful. You can see exactly how things can be formatted. You should be playing spot-the-difference between your work and the sample paper. If something looks different, you’re doing something wrong. Want a good APA sample paper? Here you go (credit to OWL Purdue): [APA Sample Paper](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_sample_paper.html).
 
 The mark scheme. The best students will write to the mark scheme. They know what gets them marks, because they literally have the marking contract right in front of them. Find yours.
 
@@ -51,9 +51,9 @@ Google. You are privileged to have a world of information at your fingertips. Do
  
 Lab Reports are made immeasurably harder if you just dive right in. It will show in your writing, by making it unstructured, waffly, and it will make the narrative unclear.
 
-Have some sort of plan. We go over the writing process in a lot of detail in the eBook, but for now we’ll recommend that you write the lab report out in bullet points. Group similar bullet points into paragraphs. Make sure that each bullet point makes sense between the one before and after it.
+Have some sort of plan. We go over the writing process in a lot of detail in the eBook, but for now we’ll recommend that you write the lab report out in bullet points. Group similar bullet points into paragraphs. Make sure that each bullet point makes sense between the one before and after it. Then expand the bullet points to be full sentences and paragraphs.
 
-If you’ve used a plan, it will show. It’s very obvious when a student is making it up as they go.
+If you’ve used a plan, it will show. It’s very obvious when someone is making it up as they go.
 
 
  
@@ -76,7 +76,7 @@ This is so much faster than having one perfectionist attempt.
 
 Thirdly, find yourself a nice place to work on the Lab Report, and then give yourself _time_ to do it. If you give yourself four hours to work on something that might take three hours, you free yourself up to enjoy the process and the pressure is off. If you give yourself two hours to do something takes three hours, you’re going to find the whole thing stressful, you’ll put it off, and it will actually take more like ten hours. Procrastination is work, because it’s not actually fun.
 
-You might like working in coffee shops, or libraries, or on the sofa, at a desk, in the park. The best place I work is on the train. Find out where _you_ enjoy working. Get into the process. It’s fun or misery. Don’t be stupid - choose fun.
+You might like working in coffee shops, or libraries, or on the sofa, at a desk, in the park. The best place I work is on the train. Find out where _you_ enjoy working. Get into the process. It’s fun or misery. Don’t be silly - choose fun.
 
 Fourthly, get some good music that works for you. I have hundreds and hundreds of songs that I use when I’m writing. In fact, that’s sometimes one of the best parts of marking – I can listen to lots of new music, get into different genres, find artists and channels I’d never heard of. 
 
@@ -86,7 +86,7 @@ We recommend avoiding music with words. There are many genres out there without 
 
 Fifthly, fake it til you make it. Don’t go into this with the mindset of “I have no idea what I’m doing, and this will go badly.” Think about the best that could happen, think about how to make that happen, and then do that. Aim high. Have some hope. Dream.
 
-Sixthly, find some resources that make it easier! Don’t do Error 1! We’re here to help. Read the blogs, buy the book written with you in mind, and follow our tweets on Twitter.
+Sixthly, find some resources that make it easier! Don’t do Error 1! We’re here to help. Read the blog posts, buy the book written with you in mind, and follow our tweets on Twitter.
 
 
 
