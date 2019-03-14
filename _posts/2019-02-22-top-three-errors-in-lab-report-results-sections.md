@@ -12,7 +12,7 @@ image: /img/results image.jpg
 ---
 _Reading time: 3 minutes_ - The Results Section of a Lab Report needs to be crisp, clear, concise.
 
-Here we talk about how to avoid these results to get closer to the perfect Results Section.
+Here we talk about how to avoid these issues to get closer to the perfect Results Section.
 
  
 ## **Error 1/3**
@@ -84,7 +84,7 @@ State what the descriptives are. Done.
 
 State the inferentials. Done.
 
-Don’t start discussing _why_ you did things in lots of depth. Don’t have a monologue about how one standard deviations is .03 higher than the other standard deviation. This information is only helping you to leak marks. 
+Don’t start discussing _why_ you did things in lots of depth, unless you need to justify a novel or rare technique. Don’t have a monologue about how one standard deviations is .03 higher than the other standard deviation. This information is only helping you to leak marks. 
 
 You don’t need to start discussing null hypotheses or how your results fit with the literature. Save that for the Discussion Section.
 
