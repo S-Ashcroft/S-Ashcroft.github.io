@@ -30,7 +30,7 @@ Never mind the content for a second, just consider what a perfect Abstract looks
 
 Your reader and your marker will have that ideal Abstract format in their head, and they’ll be expecting it. Essentially, they’re ready and waiting for a game of spot-the-difference.
 
-If your Abstract looks the same as that piece of work that won the Nobel Prize, that will certainly put your reader in a good frame of mind regarding the rest of your work. It might even take quite a few errors for them to change their opinion that “this is a good piece of work”.
+If your Abstract looks the same as that piece of work that won the Nobel Prize, that will certainly put your reader in a good frame of mind regarding the rest of your work. It might even take a few errors for them to change their opinion that “this is a good piece of work”.
 
 In APA, the Abstract should have double line spacing, it will have keywords, it won’t have sub-sections, and more.
 
