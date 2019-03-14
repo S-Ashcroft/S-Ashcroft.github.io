@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Top Three Errors in Lab Report Results Sections
 tags:
   - Lab Report
