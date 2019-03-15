@@ -82,7 +82,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**  
 If you have any questions about this Privacy Policy, please contact us:
-By visiting this page on our website: (<https://labreport.org/aboutus/ >)  
+By visiting this page on our website: (<https://labreport.org/aboutus/>)  
 
 ---
 
