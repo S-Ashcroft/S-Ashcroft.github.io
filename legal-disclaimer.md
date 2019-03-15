@@ -12,7 +12,7 @@ Any views or opinions represented within the Service are personal and belong sol
 
 “In reference to the content contained with the Service, the User acknowledges and agrees that, to the fullest extent permitted by law, none of LabReport.Org or the Owners –  
 
->(1)	accept responsibility or liability for the frequency of provision and accuracy of the LabReport.Org content or any use made of the LabReport.Org content by the User, whether or not arising from the negligence of any of LabReport.Org staff or the Owners; or
+>(1)	accept responsibility or liability for the frequency of provision and accuracy of the LabReport.Org content or any use made of the LabReport.Org content by the User, whether or not arising from the negligence of any of LabReport.Org staff or the Owners; or  
 (2)	shall be liable for any loss of business or profits nor any direct, indirect or consequential loss or damage resulting from any such irregularity, inaccuracy or use of the information”  
 
 LabReport.Org assumes no responsibility for errors or omissions in the contents on the Service.  
