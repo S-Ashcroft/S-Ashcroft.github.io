@@ -48,7 +48,7 @@ everything you need to know. Highly recommended."***
 
 >***"This is a great, thorough resource for students trying to write the perfect report. The authors cover everything from writing style to referencing, and pack the book with excellent advice."***
 
-**Dr Andrey Barsky, Artificial Intelligence Researcher**
+**Dr Andrey Barsky, Artificial Intelligence Researcher, Research Associate, University of Birmingham**
 
 (Read more about Dr Andrey Barsky [here](https://www.researchgate.net/profile/Andrey_Barsky))
 
