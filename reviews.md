@@ -9,6 +9,7 @@ you don't want to waste time wandering in a wilderness of vague platitudes. This
 everything you need to know. Highly recommended.*"
 
 **Steven C. Hayes, Nevada Foundation Professor, Behavior Analysis, Department of Psychology at the University of Nevada**
+
 (Read more about Professor Steven C. Hayes [here](http://www.stevenchayes.com/about/)
 
 # **For more reviews and to purchase the eBook (or Paperback), visit [Amazon](https://www.amazon.co.uk)**
