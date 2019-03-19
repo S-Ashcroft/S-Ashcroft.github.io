@@ -50,7 +50,7 @@ everything you need to know. Highly recommended."***
 
 **Dr Andrey Barsky, Artificial Intelligence Researcher**
 
-(Read more about Andrey Barsky [here](https://www.researchgate.net/profile/Andrey_Barsky))
+(Read more about Dr Andrey Barsky [here](https://www.researchgate.net/profile/Andrey_Barsky))
 
 
 ***
