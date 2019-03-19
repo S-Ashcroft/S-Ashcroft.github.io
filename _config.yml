@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   About Us: "aboutus"
   Blog: "blog"
-#  Reviews: "reviews"
+  Reviews: "reviews"
   FAQs: "FAQ"
 
 #  Resources:
