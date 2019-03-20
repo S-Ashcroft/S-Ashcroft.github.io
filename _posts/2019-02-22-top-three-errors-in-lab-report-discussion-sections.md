@@ -8,7 +8,7 @@ tags:
   - Common Mistakes
   - Discussion
   - Common Errors Series
-image: /img/discussion image.jpg
+image: /img/blog_images/discussion image.jpg
 ---
 _Reading time: 3 minutes_ - The Discussion Section of a Lab Report is where you can really separate yourself from the rest of the pack. 
 
