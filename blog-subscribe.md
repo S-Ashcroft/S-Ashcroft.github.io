@@ -38,5 +38,6 @@ layout: page
 </div>
 
 <!--End mc_embed_signup-->
+<p style="text-align: center;">By clicking Subscribe, you are opting-in to receive email updates from LabReport.Org</p>
 <p style="text-align: center;"><a href="https://labreport.org/privacy-policy/">Privacy Policy</a></p>
 
