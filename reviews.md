@@ -50,6 +50,7 @@ everything you need to know. Highly recommended."***
 
 (Read more about Dr Richard Bennett [here](https://www.thinkpsychology.co/about.php?page=dr-richard-bennett))
 
+
 ***
 
 >***"How to write a lab report’ by Ashcroft and Kennedy, provides a checklist of tips and strategies on..you’ve guessed it..how to write a lab report.***  
@@ -62,7 +63,9 @@ everything you need to know. Highly recommended."***
 <!--- Lancashire School of Business and Enterprise 
 University of Central Lancashire (UCLAN) 
 --->
+
 (Read more about Dr Sara Fisher [here](https://www.linkedin.com/in/dr-sara-fisher-8bb60b4a))
+
 
 ***
 
