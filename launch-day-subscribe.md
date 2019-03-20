@@ -39,3 +39,4 @@ layout: page
 </div>
 
 <!--End mc_embed_signup-->
+<p style="text-align: center;"><a href="https://labreport.org/privacy-policy/">Privacy Policy</a></p>
