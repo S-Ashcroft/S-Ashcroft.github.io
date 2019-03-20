@@ -8,7 +8,7 @@ tags:
   - Common Mistakes
   - Results
   - Common Errors Series
-image: /img/results image.jpg
+image: /img/blog_images/results image.jpg
 ---
 _Reading time: 3 minutes_ - The Results Section of a Lab Report needs to be crisp, clear, concise.
 
