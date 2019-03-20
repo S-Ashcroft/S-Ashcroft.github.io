@@ -31,7 +31,7 @@ Consultant Clinical Psychologist, Contextual Consulting & University College Lon
 >***"This excellent book elicited reactions in me that I didn't think possible from a book on how to write scientific and scholarly psychology laboratory reports insofar as I smiled, and smiled again, and then smiled some more. It is smart, irreverent, snappy, yet thoroughly engaging, nuanced, current, practical, and choc-full of dollops of experience and wisdom. I like the fact that the authors are not afraid to acknowledge and indeed promote the utility of modern online realities such as google scholar and wikipedia as more traditional academic texts on writing lab reports do not typically capture this or indeed tend to unnecessarily steer students away from such resources. Includes excellent step-by-step suggestions on how to develop a research database and how to really showcase some critical and analytical flair in discussion sections to gain those higher marks. It is a timely book that meets the needs of of the modern psychology student and it will be core reading for my experimental psychology modules."***
 
 **Dr Ian Tyndall  
-Department of Psychology, University of Chichester**
+Senior Lecturer, Department of Psychology, University of Chichester**
 
 (Read more about Dr Ian Tyndall [here](https://www.chi.ac.uk/staff/power/dr-ian-tyndall))
 
