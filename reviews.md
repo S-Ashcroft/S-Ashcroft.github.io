@@ -51,7 +51,7 @@ It is a timely book that meets the needs of of the modern psychology student and
 
 ***
 
-<img src="/img/reviewers_faces/Dr-Sara-Fisher.jpeg" alt="Dr Sara Fisher" style="float:left;width:42px;height:42px;border-radius: 50%;">
+<img src="/img/reviewers_faces/Dr-Sara-Fisher.jpeg" alt="Dr Sara Fisher" style="float:left;width:140px;height:140px;border-radius: 50%;">  
 >***"How to write a lab report’ by Ashcroft and Kennedy, provides a checklist of tips and strategies on..you’ve guessed it..how to write a lab report. 
 I was pleasantly surprised with how easy the book was to read and navigate, (something that is not common in the sector). It is perfect for a student to quickly check what a good lab report should consist of without trudging through reams of unnecessary and confusing information. The E-book feature is also really handy for students to keep on their devices. 
 This book would be very useful for social science students who write up lab reports. I hope the authors consider expanding to other types of assessments and disciplines in the future!"***  
