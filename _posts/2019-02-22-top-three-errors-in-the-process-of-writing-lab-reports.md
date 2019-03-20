@@ -8,7 +8,7 @@ tags:
   - Common Mistakes
   - Process
   - Common Errors Series
-image: /img/process image.jpg
+image: /img/blog_images/process image.jpg
 ---
 _Reading time: 3 minutes_ - Writing a Lab Report is a bit of a journey. You figure out what you need to write about, analyse some data, find some literature, make a plan, and stick it all together.
 
