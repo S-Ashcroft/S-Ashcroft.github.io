@@ -8,7 +8,7 @@ tags:
   - Common Mistakes
   - Abstract
   - Common Errors Series
-image: /img/abstract image.jpg
+image: /img/blog_images/abstract image.jpg
 ---
 _Reading time: 3 minutes_ - The Abstract Section of a Lab Report is the first taste of your work that the reader gets.
 
