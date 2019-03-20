@@ -4,9 +4,9 @@ title: Reviews
 subtitle: What people are saying about the book
 ---
 
->***"Short. Comprehensive. Easy to understand. What's not to like? If you need to know how to do a lab report
+>"Short. Comprehensive. Easy to understand. What's not to like? If you need to know how to do a lab report
 you don't want to waste time wandering in a wilderness of vague platitudes. This little book will tell you
-everything you need to know. Highly recommended."***
+everything you need to know. Highly recommended."  
 
 **Professor Steven C. Hayes**  
 *Nevada Foundation Professor, Behavior Analysis, Department of Psychology at the University of Nevada*
@@ -17,7 +17,7 @@ everything you need to know. Highly recommended."***
 ***
 
 
->***"Written by two lab-report experts, this e-book is packed full of practical tips, suggestions and ideas. Read it to learn the science and art of writing successful lab reports.  This is exactly the kind of guide I wish I’d had when doing my university studies!"***
+>"Written by two lab-report experts, this e-book is packed full of practical tips, suggestions and ideas. Read it to learn the science and art of writing successful lab reports.  This is exactly the kind of guide I wish I’d had when doing my university studies!"  
 
 **Dr Joe Oliver**  
 *Consultant Clinical Psychologist, Contextual & Consulting at University College London*  
@@ -28,9 +28,9 @@ everything you need to know. Highly recommended."***
 ***
 
 
->***"This excellent book elicited reactions in me that I didn't think possible from a book on how to write scientific and scholarly psychology laboratory reports insofar as I smiled, and smiled again, and then smiled some more. It is smart, irreverent, snappy, yet thoroughly engaging, nuanced, current, practical, and choc-full of dollops of experience and wisdom.***  
->***I like the fact that the authors are not afraid to acknowledge and indeed promote the utility of modern online realities such as google scholar and wikipedia as more traditional academic texts on writing lab reports do not typically capture this or indeed tend to unnecessarily steer students away from such resources. Includes excellent step-by-step suggestions on how to develop a research database and how to really showcase some critical and analytical flair in discussion sections to gain those higher marks.***  
->***It is a timely book that meets the needs of of the modern psychology student and it will be core reading for my experimental psychology modules."***  
+>"This excellent book elicited reactions in me that I didn't think possible from a book on how to write scientific and scholarly psychology laboratory reports insofar as I smiled, and smiled again, and then smiled some more. It is smart, irreverent, snappy, yet thoroughly engaging, nuanced, current, practical, and choc-full of dollops of experience and wisdom.  
+>I like the fact that the authors are not afraid to acknowledge and indeed promote the utility of modern online realities such as google scholar and wikipedia as more traditional academic texts on writing lab reports do not typically capture this or indeed tend to unnecessarily steer students away from such resources. Includes excellent step-by-step suggestions on how to develop a research database and how to really showcase some critical and analytical flair in discussion sections to gain those higher marks.  
+>It is a timely book that meets the needs of of the modern psychology student and it will be core reading for my experimental psychology modules."  
 
 **Dr Ian Tyndall**  
 *Senior Lecturer, Department of Psychology, University of Chichester*  
@@ -51,9 +51,9 @@ everything you need to know. Highly recommended."***
 
 ***
 
->***"How to write a lab report’ by Ashcroft and Kennedy, provides a checklist of tips and strategies on..you’ve guessed it..how to write a lab report.***  
->***I was pleasantly surprised with how easy the book was to read and navigate, (something that is not common in the sector). It is perfect for a student to quickly check what a good lab report should consist of without trudging through reams of unnecessary and confusing information. The E-book feature is also really handy for students to keep on their devices.***  
->***This book would be very useful for social science students who write up lab reports. I hope the authors consider expanding to other types of assessments and disciplines in the future!"***  
+>"'How to write a lab report’ by Ashcroft and Kennedy, provides a checklist of tips and strategies on..you’ve guessed it..how to write a lab report.  
+>I was pleasantly surprised with how easy the book was to read and navigate, (something that is not common in the sector). It is perfect for a student to quickly check what a good lab report should consist of without trudging through reams of unnecessary and confusing information. The E-book feature is also really handy for students to keep on their devices.  
+>This book would be very useful for social science students who write up lab reports. I hope the authors consider expanding to other types of assessments and disciplines in the future!"  
 
 <img src="/img/reviewers_faces/Dr-Sara-Fisher.jpeg" alt="Dr Sara Fisher" style="float:left;width:140px;height:140px;border-radius: 50%;border-width: 15px;">  
 **Dr Sara Fisher**   
@@ -68,7 +68,7 @@ University of Central Lancashire (UCLAN)
 ***
 
 
->***"This is a great, thorough resource for students trying to write the perfect report. The authors cover everything from writing style to referencing, and pack the book with excellent advice."***
+>"This is a great, thorough resource for students trying to write the perfect report. The authors cover everything from writing style to referencing, and pack the book with excellent advice."  
 
 **Dr Andrey Barsky**  
 *Artificial Intelligence Researcher, Research Associate, University of Birmingham*
