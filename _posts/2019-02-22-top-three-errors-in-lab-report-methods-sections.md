@@ -8,7 +8,7 @@ tags:
   - Common Mistakes
   - Methods
   - Common Errors Series
-image: /img/microscope.jpg
+image: /img/blog_images/microscope.jpg
 ---
 _Reading time: 3 minutes_ - The Methods Section is incredibly important for a Lab Report. Not only can a reader know exactly what you did in your experiment, but they should also be given enough information so that they can replicate your study.
 
