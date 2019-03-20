@@ -51,11 +51,11 @@ It is a timely book that meets the needs of of the modern psychology student and
 
 ***
 
-<img src="/img/reviewers_faces/Dr-Sara-Fisher.jpeg" alt="Dr Sara Fisher" style="float:left;width:140px;height:140px;border-radius: 50%;">  
->***"How to write a lab report’ by Ashcroft and Kennedy, provides a checklist of tips and strategies on..you’ve guessed it..how to write a lab report. 
-I was pleasantly surprised with how easy the book was to read and navigate, (something that is not common in the sector). It is perfect for a student to quickly check what a good lab report should consist of without trudging through reams of unnecessary and confusing information. The E-book feature is also really handy for students to keep on their devices. 
-This book would be very useful for social science students who write up lab reports. I hope the authors consider expanding to other types of assessments and disciplines in the future!"***  
+>***"How to write a lab report’ by Ashcroft and Kennedy, provides a checklist of tips and strategies on..you’ve guessed it..how to write a lab report.***  
+>***I was pleasantly surprised with how easy the book was to read and navigate, (something that is not common in the sector). It is perfect for a student to quickly check what a good lab report should consist of without trudging through reams of unnecessary and confusing information. The E-book feature is also really handy for students to keep on their devices.***  
+>***This book would be very useful for social science students who write up lab reports. I hope the authors consider expanding to other types of assessments and disciplines in the future!"***  
 
+<img src="/img/reviewers_faces/Dr-Sara-Fisher.jpeg" alt="Dr Sara Fisher" style="float:left;width:140px;height:140px;border-radius: 50%;">  
 **Dr Sara Fisher**   
 *Lecturer in Management, Division of Strategy and Enterprise*   
 <!--- Lancashire School of Business and Enterprise 
@@ -68,8 +68,8 @@ University of Central Lancashire (UCLAN)
 
 >***"This is a great, thorough resource for students trying to write the perfect report. The authors cover everything from writing style to referencing, and pack the book with excellent advice."***
 
-**Dr Andrey Barsky  
-Artificial Intelligence Researcher, Research Associate, University of Birmingham**
+**Dr Andrey Barsky**  
+*Artificial Intelligence Researcher, Research Associate, University of Birmingham*
 
 (Read more about Dr Andrey Barsky [here](https://www.researchgate.net/profile/Andrey_Barsky))
 
