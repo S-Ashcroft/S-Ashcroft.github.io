@@ -8,7 +8,7 @@ subtitle: What people are saying about the book
 you don't want to waste time wandering in a wilderness of vague platitudes. This little book will tell you
 everything you need to know. Highly recommended."  
 
-<!---img src="/img/reviewers_faces/Prof-Steve-Hayes.jpg" alt="Prof Steven Hayes" style="float:left;width:140px;height:140px;border-radius: 50%;border-width: 15px;"--->  
+<img src="/img/reviewers_faces/Prof-Steve-Hayes.jpg" alt="Prof Steven Hayes" style="float:left;width:140px;height:140px;border-radius: 50%;border-width: 15px;">  
 **Professor Steven C. Hayes**  
 *Nevada Foundation Professor, Behavior Analysis, Department of Psychology at the University of Nevada*
 
@@ -20,7 +20,7 @@ everything you need to know. Highly recommended."
 
 >"Written by two lab-report experts, this e-book is packed full of practical tips, suggestions and ideas. Read it to learn the science and art of writing successful lab reports.  This is exactly the kind of guide I wish I’d had when doing my university studies!"  
 
-<!---img src="/img/reviewers_faces/Dr-Joe-Oliver.jpg" alt="Dr Joe Oliver" style="float:left;width:140px;height:140px;border-radius: 50%;border-width: 15px;"--->  
+<img src="/img/reviewers_faces/Dr-Joe-Oliver.jpg" alt="Dr Joe Oliver" style="float:left;width:140px;height:140px;border-radius: 50%;border-width: 15px;">  
 **Dr Joe Oliver**  
 *Consultant Clinical Psychologist, Contextual & Consulting at University College London*  
 
@@ -34,7 +34,7 @@ everything you need to know. Highly recommended."
 >I like the fact that the authors are not afraid to acknowledge and indeed promote the utility of modern online realities such as google scholar and wikipedia as more traditional academic texts on writing lab reports do not typically capture this or indeed tend to unnecessarily steer students away from such resources. Includes excellent step-by-step suggestions on how to develop a research database and how to really showcase some critical and analytical flair in discussion sections to gain those higher marks.  
 >It is a timely book that meets the needs of of the modern psychology student and it will be core reading for my experimental psychology modules."  
 
-<!---img src="/img/reviewers_faces/Dr-Ian-Tyndall.jpg" alt="Dr Ian Tyndall" style="float:left;width:140px;height:140px;border-radius: 50%;border-width: 15px;"--->  
+<img src="/img/reviewers_faces/Dr-Ian-Tyndall.jpg" alt="Dr Ian Tyndall" style="float:left;width:140px;height:140px;border-radius: 50%;border-width: 15px;">  
 **Dr Ian Tyndall**  
 *Senior Lecturer, Department of Psychology, University of Chichester*  
 
