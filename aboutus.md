@@ -47,6 +47,6 @@ Sam and Brad are both:
 
 ---
 
-**Check out our [blog posts](https://labreport.org/blog)**
+**Check out our [Blog](https://labreport.org/blog)**
 
 **Buy our eBook 'How to Write a Lab Report: The Secret Recipe for Success' on [Amazon](https://www.amazon.co.uk/How-Write-Lab-Report-Success-ebook/dp/B07QJD7TJR/ref=sr_1_1?qid=1555234159&refinements=p_27%3ASam+Ashcroft&s=digital-text&sr=1-1&text=Sam+Ashcroft)**
