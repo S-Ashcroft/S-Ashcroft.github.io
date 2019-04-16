@@ -10,7 +10,7 @@ title: FAQs
 - **[What is this website about?](#websiteabout)** 
 - **[Who wrote the book, runs the website, and posts on social media?](#whoweare)** 
 - **[When is the book available?](#launchdate)** 
-- **[Can I sign up to be told about the Book Launch?](#launchsignup)** 
+- **[Can I sign up to be told about the Book Launch?](#blogsignup)** 
 - **[What content does the book contain?](#bookcontent)**
 - **[Who is this book for?](#bookfor)**
 - **[What's so hard about writing Lab Reports?](#hardreports)**
@@ -35,14 +35,10 @@ To summarise, we are both teaching staff at University, and we largely teach stu
 Together we have extensive experience in how to write Lab Reports, and we want to share all that experience with you.
 
 # When is the book available? {#launchdate}
-The book will be available on Amazon from the 14th April 2019.
+The book is now available on [Amazon!](https://www.amazon.co.uk/dp/B07QJD7TJR/ref=cm_sw_em_r_mt_dp_U_AKCTCb6X7P882)  
 
-We have decided to publish on Amazon because this keeps costs low for you (avoiding publisher fees which would drive the price up), and also because it is a reputable marketing service. This means that you can trust the reviews and trust the seller.
-
-To be reminded about the book launch, please sign up [here](https://labreport.org/launch-day-subscribe/)  
-
-# Can I sign up to be told about the Book Launch? {#launchsignup}
-Of course you can, right [here](https://labreport.org/launch-day-subscribe/)  
+# Can I sign up to new blog alerts? {#blogsignup}
+Of course you can, right [here](https://labreport.org/blog-subscribe/)  
 
 # What content does the book contain? {#bookcontent}
 We have written a comprehensive, step-by-step guide to writing Lab Reports.
@@ -65,5 +61,5 @@ That's where we come in. We've been there! We've done degrees, Masters, we're do
 
 We've brought together all those rules that took us years to learn, and have compiled them into one comprehensive, useful resource. For you.
 
-You can sign up to be the first to hear about the book launch [here](https://labreport.org/launch-day-subscribe/), and you can get extra tips and tricks from our [Twitter](https://twitter.com/_LabReport) and [Facebook](https://facebook.com/LabReport.Org) accounts.
+You can get extra tips and tricks from our [Twitter](https://twitter.com/_LabReport) and [Facebook](https://facebook.com/LabReport.Org) accounts.
 
