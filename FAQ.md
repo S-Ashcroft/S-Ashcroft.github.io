@@ -10,7 +10,7 @@ title: FAQs
 - **[What is this website about?](#websiteabout)** 
 - **[Who wrote the book, runs the website, and posts on social media?](#whoweare)** 
 - **[When is the book available?](#launchdate)** 
-- **[Can I sign up to be told about the Book Launch?](#blogsignup)** 
+- **[Can I sign up to new blog alerts?](#blogsignup)** 
 - **[What content does the book contain?](#bookcontent)**
 - **[Who is this book for?](#bookfor)**
 - **[What's so hard about writing Lab Reports?](#hardreports)**
